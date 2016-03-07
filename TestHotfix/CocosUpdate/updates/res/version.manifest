@@ -1,0 +1,10 @@
+{
+    "packageUrl" : "http://192.168.1.189:8080/CocosUpdate/updates",
+    "remoteManifestUrl" : "http://192.168.1.189:8080/CocosUpdate/updates/res/project.manifest", 
+    "remoteVersionUrl" : "http://192.168.1.189:8080/CocosUpdate/updates/res/version.manifest",
+    "version" : "12.5.9",
+    "groupVersions" : {
+        "1" : "12.5.9"
+    },
+    "engineVersion" : "3.9"
+}
